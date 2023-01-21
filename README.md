@@ -9,8 +9,6 @@ I regularly code with Javascript, PHP, HTML, CSS, and Processing. These language
 ###  Fun fact 😎
 It might be the most boring profile you've ever seen today or even this week, but you will possibly never forget the moment that you read this sentence without ever realizing it.
 
-🐟💤
-
 
 <!--
 **Paradockz/Paradockz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
