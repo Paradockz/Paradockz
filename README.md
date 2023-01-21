@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, World 👋
+
+I am your typical lazy programmer that flies under the radar. I enjoy experimenting with different programming languages and creating projects for fun in my spare time.
+
+
+
 
 <!--
 **Paradockz/Paradockz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
